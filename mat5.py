@@ -1,2 +1,3 @@
-print("git2")
-print("new bra   hghg  nchhhhhh")
+print("git2 with conflict")
+print("new brhghg  nchhhhhh")
+print("ffffffffffff")

@@ -1,2 +1,1 @@
-print("ffffffffff")
-print("ffffffffff")print("ffffffffff")
+print("f f f f ")
